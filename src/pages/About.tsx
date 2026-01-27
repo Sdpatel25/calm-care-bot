@@ -9,7 +9,7 @@ const sections = [
     title: "How It Works",
     content: `TriageAI uses a structured approach to help you understand the urgency of your symptoms. When you describe what you're experiencing, our system:
 
-1. **Collects Information**: You select from common symptoms and describe your experience in your own words.
+1. Collects Information**: You select from common symptoms and describe your experience in your own words.
 
 2. **Asks Follow-Up Questions**: Based on your initial input, we ask targeted questions about duration, severity, and other relevant factors.
 
